@@ -40,7 +40,7 @@ During the work over it, I increased the speed of loading pages on the client si
 
 Next projects is under the NDA. It is a big service and consists of several web applications and REST APIs powered by Yii2, Slim and vue.js frameworks. Also dating service on Symfony framework.
 
-Next project is ***pdfFiller*** - solution #1 for online editing pdf, electronic document management, e-signature, etc.
+Next project is ***pdfFiller*** - solutions for online editing pdf, electronic document management, e-signature, etc.
 
 Previous project is ***Sendios*** - email (but not only) marketing solutions for business, it is also high-load system.
 
